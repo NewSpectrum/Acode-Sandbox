@@ -4,3 +4,6 @@
 [submodule "submodules/source/Acode-SourceCode"]
 	path = submodules/source/Acode-SourceCode
 	url = git@github.com:NewSpectrum/Acode-SourceCode
+[submodule "submodules/templates/Acode-Plugin"]
+	path = submodules/templates/Acode-Plugin
+	url = git@github.com:NewSpectrum/Acode-Plugin
