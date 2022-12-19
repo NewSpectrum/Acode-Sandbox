@@ -1,0 +1,6 @@
+[submodule "submodules/Better-Acode-Comments"]
+	path = submodules/Better-Acode-Comments
+	url = git@github.com:NewSpectrum/Better-Acode-Comments.git
+[submodule "submodules/Acode-SourceCode"]
+	path = submodules/Acode-SourceCode
+	url = git@github.com:NewSpectrum/Acode-SourceCode
