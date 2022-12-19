@@ -1,0 +1,6 @@
+services:
+  android:
+    image: "api30"
+    build:
+      context: "/android/.docker/android.dockerfile"
+      dockerfile: "android.dockerfile"
